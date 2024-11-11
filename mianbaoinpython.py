@@ -1,1 +1,1 @@
-print."mianbao"
+print "mianbao"
