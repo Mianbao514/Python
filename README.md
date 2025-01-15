@@ -1,2 +1,2 @@
 # Python
-I write my code here for practice
+I write my code here to practice
