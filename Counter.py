@@ -23,4 +23,4 @@ while True:
 if purchased:
     print("Thank you!")
 else:
-    print("You missed out!")
+    print("I bought it for you even you don't want!")
