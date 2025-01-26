@@ -32,7 +32,7 @@ class MyGUI:
             print(self.textbox.get('1.0', tk.END))
 
         else:
-            messagebox.showinfo(title="Message", messgae=self.textbox.get('1.0', tk.END))
+            messagebox.showinfo(title="Message", message=self.textbox.get('1.0', tk.END))
 
 
 MyGUI()
